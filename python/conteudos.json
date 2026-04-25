@@ -1,4 +1,5 @@
-{
+[
+  {
     id: "python-basico",
     title: "Fundamentos de Python",
     slug: "python-basico",
@@ -27,4 +28,5 @@
     title: "Funções",
     slug: "funcoes",
     order: 5,
-  },
+  }
+]
